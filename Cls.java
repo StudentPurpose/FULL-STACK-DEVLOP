@@ -29,6 +29,9 @@ public class Cls {
 	public String getDescription() {
 		return description;
 	}
+	public String setDescription() {
+		return description;
+	}
 	
 	
 	
