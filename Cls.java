@@ -26,12 +26,7 @@ public class Cls {
 	public void setName(String name) {
 		this.name = name;
 	}
-	public String getDescription() {
-		return description;
-	}
-	public String setDescription() {
-		return description;
-	}
+	
 	
 	
 	
